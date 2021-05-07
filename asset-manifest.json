@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Ounza/monstersrolodex/static/css/main.a7dfb4a8.chunk.css",
+    "main.js": "/Ounza/monstersrolodex/static/js/main.bff02dd1.chunk.js",
+    "main.js.map": "/Ounza/monstersrolodex/static/js/main.bff02dd1.chunk.js.map",
+    "runtime-main.js": "/Ounza/monstersrolodex/static/js/runtime-main.9928af9e.js",
+    "runtime-main.js.map": "/Ounza/monstersrolodex/static/js/runtime-main.9928af9e.js.map",
+    "static/js/2.053fb966.chunk.js": "/Ounza/monstersrolodex/static/js/2.053fb966.chunk.js",
+    "static/js/2.053fb966.chunk.js.map": "/Ounza/monstersrolodex/static/js/2.053fb966.chunk.js.map",
+    "static/js/3.1ed23f05.chunk.js": "/Ounza/monstersrolodex/static/js/3.1ed23f05.chunk.js",
+    "static/js/3.1ed23f05.chunk.js.map": "/Ounza/monstersrolodex/static/js/3.1ed23f05.chunk.js.map",
+    "index.html": "/Ounza/monstersrolodex/index.html",
+    "static/css/main.a7dfb4a8.chunk.css.map": "/Ounza/monstersrolodex/static/css/main.a7dfb4a8.chunk.css.map",
+    "static/js/2.053fb966.chunk.js.LICENSE.txt": "/Ounza/monstersrolodex/static/js/2.053fb966.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Ounza/monstersrolodex/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9928af9e.js",
+    "static/js/2.053fb966.chunk.js",
+    "static/css/main.a7dfb4a8.chunk.css",
+    "static/js/main.bff02dd1.chunk.js"
+  ]
+}
